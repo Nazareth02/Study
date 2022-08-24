@@ -1,11 +1,13 @@
 @import url(../css/font.css);
 @import url(../css/card.css);
 @import url(../css/title.css);
+@import url(../css/pricing.css);
 * {
   text-decoration: none;
   padding: 0;
   margin: 0;
   list-style: none;
+  /* box-sizing: border-box; */
 }
 html {
   font-family: "Open Sans", "Raleway", sans-serif;
@@ -28,6 +30,7 @@ html {
   font-size: 36px;
   text-align: center;
   margin-bottom: 34px;
+  text-transform: uppercase;
 }
 .line {
   width: 64px;
@@ -38,11 +41,15 @@ html {
 }
 .description p {
   text-align: center;
-  color: grey;
+  color: #86878b;
 }
 .awesome {
   padding-top: 80px;
+  padding-bottom: 116px;
 }
 .portfolio {
   padding-top: 68px;
+}
+.pricing {
+  padding-top: 80px;
 }
