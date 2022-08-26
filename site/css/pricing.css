@@ -7,6 +7,10 @@
 .list {
   padding-top: 62px;
   margin: 0;
+  transition: 0.35s;
+}
+.list:hover {
+  padding-top: 32px;
 }
 .list-item__tariff {
   background-color: #333333;
