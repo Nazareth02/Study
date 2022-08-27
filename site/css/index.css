@@ -2,6 +2,7 @@
 @import url(../css/card.css);
 @import url(../css/title.css);
 @import url(../css/pricing.css);
+@import url(../css/customers.css);
 * {
   text-decoration: none;
   padding: 0;
@@ -52,4 +53,9 @@ html {
 }
 .pricing {
   padding-top: 80px;
+  padding-bottom: 60px;
+}
+.customers {
+  padding-top: 80px;
+  padding-bottom: 120px;
 }
