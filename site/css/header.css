@@ -1,0 +1,51 @@
+.header-wrap {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.container-wrap {
+  max-width: 1170px;
+  padding: 0px 15px;
+  margin: auto;
+  position: relative;
+  z-index: 2;
+}
+.logo__full {
+}
+.logo_AX {
+  font-family: "Raleway";
+  font-weight: 400;
+  font-size: 30px;
+  color: #ffffff;
+}
+.logo_IT {
+  font-family: "Raleway";
+  font-weight: 400;
+  font-size: 30px;
+  color: #ec7979;
+}
+.header-list {
+  display: flex;
+}
+.header-list__item a {
+  margin-left: 48px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.7);
+}
+.section__header {
+  background-color: #000000;
+  line-height: 70px;
+  position: sticky;
+  top: 0;
+  bottom: 0;
+  z-index: 3;
+}
+.header-list__item a:hover {
+  border-bottom: 1px solid #ffffff;
+}
