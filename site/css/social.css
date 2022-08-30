@@ -1,0 +1,52 @@
+.social-media {
+  background-color: #f8efef;
+  padding-top: 14px;
+  padding-bottom: 17px;
+}
+
+.social-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.social-title {
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 20px;
+  color: #333333;
+  margin-bottom: 14px;
+}
+.social-title__text {
+  width: 365px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 14px;
+  color: #86878b;
+  align-items: center;
+}
+.social-icons i {
+  margin-left: 70px;
+  font-size: 35px;
+  color: #bdbec4;
+}
+.social-icons i:hover {
+  transform: rotate(50deg) scale(0.9);
+  color: aqua;
+}
+.fa-facebook-f {
+}
+.fa-twitter {
+}
+.fa-google-plus-g {
+}
+.fa-pinterest {
+}
+.fa-instagram {
+}
+.fa-stumbleupon {
+}
+.fa-solid {
+}
+.fa-wifi {
+  transform: rotate(45deg);
+}
