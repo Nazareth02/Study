@@ -12,10 +12,8 @@
   height: 70px;
   margin: auto;
   margin-bottom: 30px;
-}
-.card-img img {
-  /* object-fit: cover;
-  object-position: center; Не получилось */
+  font-size: 34px;
+  color: coral;
 }
 .card-title {
   font-size: 20px;

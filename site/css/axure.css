@@ -1,5 +1,5 @@
 .title__axure {
-  font-family: Raleway;
+  font-family: "Raleway";
   font-weight: 400;
   font-size: 36px;
   text-align: center;
@@ -13,6 +13,7 @@
   background-color: #fff;
   margin: 34px auto 34px;
   display: block;
+  top: 100%;
 }
 .description__axure p {
   text-align: center;
@@ -29,4 +30,12 @@
   display: block;
   margin: 68px auto 0;
   border: 1px solid #fff;
+}
+.download a:hover {
+  background-color: #fff;
+  color: #333;
+}
+.download a:active {
+  transform: scale(0.9);
+  transition: 0.15s;
 }
