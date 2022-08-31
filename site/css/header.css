@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  align-items: center;
 }
 .header-container {
   max-width: 1170px;
@@ -38,7 +39,9 @@
 }
 .section__header {
   background-color: #000000;
-  line-height: 70px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* line-height: 70px; */
   position: sticky;
   top: 0;
   bottom: 0;

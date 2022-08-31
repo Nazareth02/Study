@@ -24,7 +24,9 @@ footer {
 }
 .footer__icons i {
   margin-left: 30px;
+  transition: 0.3s;
 }
 .footer__icons i:hover {
   color: aqua;
+  transition: 0.3s;
 }

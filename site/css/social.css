@@ -28,10 +28,12 @@
   margin-left: 70px;
   font-size: 35px;
   color: #bdbec4;
+  transition: 0.5s;
 }
 .social-icons i:hover {
   transform: rotate(50deg) scale(0.9);
   color: aqua;
+  transition: 0.5s;
 }
 .fa-wifi {
   transform: rotate(45deg);
