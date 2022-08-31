@@ -1,0 +1,30 @@
+footer {
+  background-color: #000000;
+}
+.footer-wrap {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.footer__text {
+  margin: 18px 0 15px;
+  width: 130px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 12px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.5);
+}
+.footer__icons {
+  font-size: 23px;
+  margin-top: 30px;
+  line-height: 23px;
+  color: rgba(255, 255, 255, 0.75);
+}
+.footer__icons i {
+  margin-left: 30px;
+}
+.footer__icons i:hover {
+  color: aqua;
+}

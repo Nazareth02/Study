@@ -3,7 +3,7 @@
   justify-content: space-between;
   flex-wrap: wrap;
 }
-.container-wrap {
+.header-container {
   max-width: 1170px;
   padding: 0px 15px;
   margin: auto;
