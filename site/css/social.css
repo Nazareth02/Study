@@ -32,42 +32,9 @@
 }
 .social-icons i:hover {
   transform: rotate(50deg) scale(0.9);
-  color: aqua;
+  color: rgb(66, 133, 244);
   transition: 0.5s;
 }
 .fa-wifi {
   transform: rotate(50deg);
-}
-.fa-instagram:hover {
-  background: #f09433;
-  background: -moz-linear-gradient(
-    45deg,
-    #f09433 0%,
-    #e6683c 25%,
-    #dc2743 50%,
-    #cc2366 75%,
-    #bc1888 100%
-  );
-  background: -webkit-linear-gradient(
-    45deg,
-    #f09433 0%,
-    #e6683c 25%,
-    #dc2743 50%,
-    #cc2366 75%,
-    #bc1888 100%
-  );
-  background: linear-gradient(
-    45deg,
-    #f09433 0%,
-    #e6683c 25%,
-    #dc2743 50%,
-    #cc2366 75%,
-    #bc1888 100%
-  );
-}
-.fa-instagram {
-  transition: 0.4s;
-  border: 1px solid
-    linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
-  border-radius: 10px;
 }
