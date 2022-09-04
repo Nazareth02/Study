@@ -8,6 +8,7 @@
 @import url(../css/social.css);
 @import url(../css/footer.css);
 @import url(../css/axit.css);
+@import url(../css/contact.css);
 * {
   text-decoration: none;
   padding: 0;
@@ -104,4 +105,7 @@ html {
   top: 0;
   bottom: 0;
   z-index: 1;
+}
+.contact {
+  padding: 80px 0 44px;
 }

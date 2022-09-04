@@ -1,0 +1,48 @@
+.contact__form__content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 23px;
+}
+.form__left {
+}
+.form__right {
+}
+
+.contact__form__item {
+  margin-top: 68px;
+  width: 478px;
+}
+.contact__form__item input {
+  border: transparent;
+  border-bottom: 1px solid #bdbdbd;
+  display: block;
+  width: 100%;
+}
+.contact__form__item label {
+  font-weight: 400;
+  font-size: 14px;
+  color: #bdbdbd;
+  font-family: "Open Sans";
+}
+.contact__btn {
+  cursor: pointer;
+  background-color: #ec7979;
+  border: transparent;
+  width: 166px;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 15px;
+  padding: 11px 0;
+  color: #ffffff;
+  display: block;
+  margin: 65px auto 0;
+}
+#user__message__textarea {
+  padding-top: 212px;
+  border: transparent;
+  border-bottom: 1px solid #bdbdbd;
+  display: block;
+  width: 100%;
+  resize: none;
+}
