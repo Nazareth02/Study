@@ -1,6 +1,7 @@
 .customers-card {
   padding-top: 67px;
   position: relative;
+  margin: 0 15px;
 }
 .customers-card__text {
   width: 253px;
