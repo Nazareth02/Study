@@ -39,6 +39,14 @@ form {
   color: #ffffff;
   display: block;
   margin: 65px auto 0;
+  transition: 0.1s;
+}
+.contact__btn:hover {
+  background-color: #ed8888;
+  color: #fff;
+}
+.contact__btn:active {
+  transform: scale(0.9);
 }
 #user__message__textarea {
   height: 229px;

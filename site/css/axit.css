@@ -115,6 +115,7 @@
   font-size: 15px;
   padding: 20px 0;
   color: #ffffff;
+  transition: 0.5s;
 }
 .axit__left {
   margin: 0 15px;

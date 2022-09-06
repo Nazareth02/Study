@@ -9,6 +9,7 @@
 @import url(../css/footer.css);
 @import url(../css/axit.css);
 @import url(../css/contact.css);
+@import url(../css/tabs.css);
 * {
   text-decoration: none;
   padding: 0;
@@ -108,4 +109,15 @@ html {
 }
 .contact {
   padding: 80px 0 44px;
+}
+.tabs {
+  padding: 120px 0;
+  position: relative;
+  width: 100%;
+}
+.tabs-item:nth-child(2) {
+  display: none;
+}
+.tabs-item:nth-child(3) {
+  display: none;
 }
