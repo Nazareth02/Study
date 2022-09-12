@@ -123,3 +123,22 @@
 .axit__right {
   margin: 0 15px;
 }
+@media (max-width: 1200px) {
+  .container {
+    max-width: 970px;
+  }
+}
+@media (max-width: 992px) {
+  .container {
+    min-width: 750px;
+  }
+}
+@media (max-width: 767px) {
+  .container {
+    width: 100%;
+  }
+}
+@media (max-width: 566px) {
+}
+@media (max-width: 320px) {
+}
